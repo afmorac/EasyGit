@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name "[A-Z]*.html" -exec mv {} /tmp/u +
+find . -name "[A-Z]*.html" -exec mv {} /tmp/u \;
