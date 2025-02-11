@@ -1,4 +1,2 @@
 #!/bin/bash
-chmod 711 dir0
-chmod 711 dir1
-chmod 711 dir2
+chmod a+x /*
