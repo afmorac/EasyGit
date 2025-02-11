@@ -1,4 +1,4 @@
 #!/bin/bash
-chmod -R u+rwx,g+x,o+x dir0
-chmod -R u+rwx,g+x,o+x dir1
-chmod -R u+rwx,g+x,o+x dir2
+chmod 711 dir0
+chmod 711 dir1
+chmod 711 dir2
