@@ -1,4 +1,2 @@
 #!/bin/bash
-chmod 111 dir0
-chmod 111 dir1
-chmod 111 dir2
+chmod 111 dir0 dir1 dir2
